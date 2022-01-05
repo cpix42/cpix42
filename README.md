@@ -1,5 +1,5 @@
-Working on simple, secure, opiniated ansible playbook for infrastructure deployement.
-Mainly targeting small startups.
+Working on simple, secure, opiniated ansible playbook for infrastructure deployement,
+mainly targeting small startups.
 
 Any criticism welcome.
 
