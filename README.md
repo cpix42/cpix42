@@ -1,4 +1,4 @@
-Working on opinionated ansible playbooks for simple and secure infrastructures.
+Currently working on [Infrabass](https://github.com/cpix42/infrabass), an opinionated ansible playbooks for simple and secure infrastructures.
 
 Any criticism welcome.
 
