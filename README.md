@@ -1,4 +1,4 @@
-Currently working on [Infrabaz](https://github.com/cpix42/infrabaz), an opinionated ansible playbooks for simple and secure infrastructures.
+Currently working on [Infrabaz](https://github.com/cpix42/Infrabaz), an opinionated ansible playbooks for simple and secure infrastructures.
 
 Any criticism welcome.
 
